@@ -119,4 +119,4 @@ These aren't all strictly tech blogs, but I'd recommend them anyway to help you 
 * [LifeHack] (http://lifehack.org) Feeds: [RSS] (http://feeds.feedburner.com/LifeHack/)
 * [LifeHacker] (http://lifehacker.com) Feeds: [RSS] (http://www.lifehacker.com/software/mac-os-x/index.xml)
 * [MindHacks] (http://www.mindhacks.com) Feeds: [RSS] (http://www.mindhacks.com/index.rdf)
-* [TheDailyWTF] (http://thedailywtf.com) Feeds: [RSS] (http://syndication.thedailywtf.com/TheDailyWtf)
+* [The Daily WTF] (http://thedailywtf.com) Feeds: [RSS] (http://syndication.thedailywtf.com/TheDailyWtf)
